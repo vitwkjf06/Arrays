@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //#define CLASSWORK
-#define Homework
+//#define Homework
 void main()
 {
 	setlocale(LC_ALL,"");
